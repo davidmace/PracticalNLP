@@ -2,17 +2,17 @@
 
 #Table of Contents
 1. Infrastructure and Framework
-  a. NLP System Design Philosophy
-  b. Data Scale Intuition
-  c. Data You Expect vs Data You Get
-  d. Machine Learning Framework
-  e. Basic Word Models (Tfidf)
-  f. Unigram + Bigram Tricks
+  1. NLP System Design Philosophy
+  2. Data Scale Intuition
+  3. Data You Expect vs Data You Get
+  4. Machine Learning Framework
+  5. Basic Word Models (Tfidf)
+  6. Unigram + Bigram Tricks
     1. PMI trick to lessen features
-  g. Compact Models (LDA + WMD + x2vec)
-  h. Auditing Model Performance
-  i. Auto-Updating Models
-  j. Notebook Dev Cycle
+  7. Compact Models (LDA + WMD + x2vec)
+  8. Auditing Model Performance
+  9. Auto-Updating Models
+  10. Notebook Dev Cycle
 2. Specific Components
   1. Named Entities (person names, locations)
   2. Regex Entities (email, url, phone, number, number range, )
