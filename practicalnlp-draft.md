@@ -1,10 +1,3 @@
-###About the Author
-David has worked on NLP algorithms for IBM Watson, Facebook's ad targeting, and Facebook's M personal assistant.
-
-###Introduction
-The objective of this short book is to enable a good software engineer to build scalable, fast, accurate natural language processing systems. If I did my job well, by the end of this, you will have all of the tools and much of the code needed to build bots, NLP-based recommender systems, and document/tweet classifiers. 
-
-Instead of focusing on math or theory, I will cover the practical design of NLP systems and implementation specifics necessary to run NLP at enterprise scale and quality. Section 1 covers practical infrastructure and framework design— making NLP systems that are easy to understand and improve over time. Section 2 covers how to integrate auditable deep learning into the framework presented in Section 1. Section 3 provides code snippets for specific repeatable components that are present in a variety of NLP systems— for example spelling correction and entity matching.
 
 
 #Table of Contents
